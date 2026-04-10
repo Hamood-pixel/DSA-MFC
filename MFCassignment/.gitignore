@@ -1,0 +1,10 @@
+# Visual Studio temporary/user files
+*.aps
+*.vcxproj.user
+*.vcxproj.filters
+
+# Build folders
+Debug/
+Release/
+x64/
+x86/
